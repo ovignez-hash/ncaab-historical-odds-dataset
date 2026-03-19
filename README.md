@@ -41,7 +41,8 @@ df = pd.read_csv('Sample NCAAB.csv')
 print("Total missing values:", df.isnull().sum().sum())
 
 # Display the market truth
-print(df.head()) ```
+print(df.head())
+```
 🛡️ 3. DATA TRANSPARENCY & QUALITY GUARANTEE
 Aggregating decades of historical sports data involves merging thousands of rows from widely disparate legacy formats and archived sources.
 
