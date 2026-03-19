@@ -44,14 +44,19 @@ print("Total missing values:", df.isnull().sum().sum())
 print(df.head())
 ```
 
-🛡️ 3. DATA TRANSPARENCY & QUALITY GUARANTEE
-Aggregating decades of historical sports data involves merging thousands of rows from widely disparate legacy formats and archived sources.
+---
+## 🛡️ 3. DATA TRANSPARENCY & QUALITY GUARANTEE
+
+Aggregating decades of historical sports data involves merging thousands of rows from widely disparate legacy formats and archived sources. 
 
 While rigorous manual processing and data engineering have been applied to clean, structure, and consolidate this vault, I guarantee a data completeness of >99.9%. Missing dates and corrupted odds have been aggressively filtered to ensure this dataset is immediately usable in your Machine Learning pipelines, saving you hundreds of hours of data preparation.
 
+---
+## ⚖️ 4. LEGAL DISCLAIMER & TERMS OF USE
 
-⚖️ 4. LEGAL DISCLAIMER & TERMS OF USE
-This sample and the full dataset are provided for informational, educational, and research (Machine Learning / Data Science) purposes only.
-Past performance is not indicative of future results. The creator of this dataset is not responsible for any financial losses incurred through sports betting or trading based on the models built with this data.
-Resale, redistribution, or unauthorized sharing of the purchased datasets is strictly prohibited.
-Good luck with your modeling, Olivier Sports Data
+- This sample and the full dataset are provided for informational, educational, and research (Machine Learning / Data Science) purposes only.
+- Past performance is not indicative of future results. The creator of this dataset is not responsible for any financial losses incurred through sports betting or trading based on the models built with this data.
+- Resale, redistribution, or unauthorized sharing of the purchased datasets is strictly prohibited. 
+
+**Good luck with your modeling,**
+*Olivier Sports Data*
